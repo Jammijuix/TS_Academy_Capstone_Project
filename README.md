@@ -28,5 +28,38 @@ The `Life_Expectancy_.ipynb` notebook follows a structured data science pipeline
 To view or run the analysis locally:
 
 1. **Clone the Repository:**
+```bash
+   git clone [https://github.com/Jammijuix/TS-Academy-Capstone-Projects-Group-18.git](https://github.com/Jammijuix/TS-Academy-Capstone-Projects-Group-18.git)
+```
+
+2 **Install Dependencies:**
+Ensure you have the following libraries installed:
+
+```Bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+Run the Notebook:
+Open the `Life_Expectancy_.ipynb` file using Jupyter Notebook, JupyterLab, or VS Code.
+
+📈 **Key Insights**
+* Economic Correlation: There is a strong positive correlation between a country's GDP/Schooling and higher life expectancy.
+
+* Healthcare Impact: Significant impact of immunisation coverage (Polio, Diphtheria) on reducing child mortality.
+
+* Risk Factors: High HIV/AIDS prevalence remains a primary factor in lower life expectancy in specific regions.
+
+👥 Group 18 Contributors
+1. Nnamdi Kelvin Etumnu – Data Analysis & Modelling
+2. Adeniji Mayowa 
+3. Joseph Odili Alex 
+4. Obichukwu Adaeze Suzan 
+5. Akinseye Daniel Jesutimileyin 
+6. Eniola Abimbola 
+7. Solomon Ojukotimi 
+8. Abraham Emenuvwe 
+9. Inoghie David Ebunoluwa 
+10. Caleb Kazayet Kadon 
+11. Azeez Adekunle Ogunsina 
+12. Issa Hamidat Olamide 
    ```bash
    git clone [https://github.com/Jammijuix/TS-Academy-Capstone-Projects-Group-18.git](https://github.com/Jammijuix/TS-Academy-Capstone-Projects-Group-18.git)
